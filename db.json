@@ -1,0 +1,36 @@
+[
+    {
+        "username": "Jacob",
+        "posts": [
+            "post1",
+            "post2",
+            "post3"
+        ]
+    },
+    {
+        "username": "Caleb",
+        "posts": [
+            "pocst1",
+            "post2",
+            "post3"
+        ]
+    },
+    {
+        "username": "Josh",
+        "posts": [
+            "pojst1",
+            "post2",
+            "post3"
+        ]
+    },
+    {
+        "username": "Rachel",
+        "posts": [
+            "porst1",
+            "post2",
+            "post3"
+        ]
+    }
+]
+  
+  
